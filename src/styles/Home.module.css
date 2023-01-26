@@ -22,3 +22,9 @@
   height: fit-content;
   padding: 20px;
 }
+
+.buttons-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
